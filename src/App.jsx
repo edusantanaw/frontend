@@ -1,7 +1,4 @@
 import './App.css'
-// import OutherRoutes from './routes/OtherRoutes';
-// import SignRoutes from './routes/SignRoutes';
-
 import {
   BrowserRouter as Router,
   Routes,
